@@ -1,10 +1,1 @@
- Volume in drive C is System
- Volume Serial Number is 04F2-827D
-
- Directory of C:\Users\RXMW6761\Desktop\MyProject
-
-11-06-2021  08:42    <DIR>          .
-11-06-2021  08:42    <DIR>          ..
-11-06-2021  08:42                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  40,265,236,480 bytes free
+New Line added
